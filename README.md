@@ -3,11 +3,11 @@
 
 
 ## 🚀 About Me
-I'm a Machine Learning engineer with  skills in data engineering pipelines development currently  studying at Brunel University London 
+I'm a Machine Learning engineer with  proficiency in developing and deploying data pipelines currently  studying at Brunel University London 
 
 
 ## 🛠 Skills
-Core Skills: Web development, EDA (Exploratory Data Analysis), Machine learning, Data pipelines, technical writing
+Core Skills: Web development, EDA (Exploratory Data Analysis), Machine learning, Data pipelines (ELT) , technical writing
 
 
 
