@@ -32,6 +32,8 @@ Core Skills: Web development, EDA (Exploratory Data Analysis), Machine learning,
 
 🎤 I enjoy talking to data practitoners on the Data Queries podcast.
 
+🔄 I'm always at a PyData meetup, and going for tech meetups in any city I live is a monthly duty. 
+
 📫 Reach me by DM on Twitter@coloene
 
 ⚡️ Fun fact. Delay gravitation was the fun part of debugging, chatGPT kind of took the fun out.I still prefer StackOverFlow. The next generation would not say google it but quick fix it by just GPTing-it or GPT-it. Ask ur niece or nephew to confirm. 
