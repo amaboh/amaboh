@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a Machine Learning engineer with  proficiency in developing and deploying data pipelines currently  studying at Brunel University London 
+I'm a Data engineer with  proficiency in developing and deploying data pipelines currently studying at Brunel University London for a MSc in Data Science. 
 
 
 ## 🛠 Skills
