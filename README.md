@@ -28,7 +28,7 @@ Core Skills: Web development, EDA (Exploratory Data Analysis), Machine learning,
 
 🧠 I'm currently learning ML
 
-👯♀️ I'm looking to collaborate on projects in the finance and healthcare industry.
+🤝 I'm looking to collaborate on projects in automation and AI, interested in finance and healthcare data but openminded.
 
 🎤 I enjoy talking to data practitoners on the Data Queries podcast.
 
