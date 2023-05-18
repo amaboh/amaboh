@@ -3,23 +3,25 @@
 
 
 ## 🚀 About Me
-I'm a Data engineer with  proficiency in developing and deploying data pipelines currently studying at Brunel University London for a MSc in Data Science. 
+Versatile and innovative Data Science professional with a strong background in machine learning, data engineering, and financial analytics. Currently pursuing a Masters in Data Science & Analytics with a focus on Machine Learning and High-Performance Computing and holds an MSc in Finance. Skilled in leveraging technologies such as Python, R, SQL, PySpark, Kafka, and Tableau to create data-driven solutions. 
+
 
 
 ## 🛠 Skills
-Core Skills: Web development, EDA (Exploratory Data Analysis), Machine learning, Data pipelines (ELT) , technical writing
-
+Core Skills: Machine learning/Data Engineering , technical writing
+•	Machine learning: Supervised Learning, Unsupervised Learning, Deep Learning, Natural Language Processing, Computer Vision, Time Series Analysis, Reinforcement Learning
+•	Data Engineering: Data Pipelines, ETL, Data cleaning, Explorative Data Analyses, Data storage
 
 
 
 
 ## Tech Stack
 
-•	JavaScript programming: Rest APIs, NodeJS, MongoDB, Express, RapitMQ, CICD
+•	Programming languages: Python, R, Javascript
+•	Python Libraries: FastAi, Pytorch, Scikit-learn, Keras, NLTK, Pandas, Numpy, Matplotlib, Seaborn
+•	Data Management & visualization: SQL, PySpark, Kafka, Tableau, Airflow, GCP, 
 
-•	Python and R programming: Pandas, Numpy, Scikit-learn, FastAI, Matplotlib, ggplotlib
 
-•	Data management and infrasrtucture: SQL, Hadoop, Scala, Kafka, Airflow, Terraform, GCP, Docker
 
 
 
