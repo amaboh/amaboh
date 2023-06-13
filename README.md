@@ -18,6 +18,7 @@ Core Skills: Machine learning/Data Engineering , technical writing
 ## Tech Stack
 
 •	Programming languages: Python, R, Javascript
+
 •	Python Libraries: FastAi, Pytorch, Scikit-learn, NLTK, Pandas, Numpy, Matplotlib, Seaborn
 •	Data Management & visualization: SQL, PySpark, Kafka, Tableau, Airflow, GCP Big Query, 
 
