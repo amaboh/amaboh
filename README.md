@@ -9,7 +9,9 @@ Versatile and innovative Data Science professional with a strong background in m
 
 ## 🛠 Skills
 Core Skills: Machine learning/Data Engineering , technical writing
+
 •	Machine learning: Supervised Learning, Unsupervised Learning, Deep Learning, Natural Language Processing, Computer Vision, Time Series Analysis, Reinforcement Learning
+
 •	Data Engineering: Data Pipelines(ETL/ELT), Data cleaning and processing, Explorative Data Analyses, Data visualization
 
 
@@ -18,7 +20,9 @@ Core Skills: Machine learning/Data Engineering , technical writing
 ## Tech Stack
 
 •	Programming languages: Python, R, Javascript. 
+
 •	Python Libraries: FastAi, Pytorch, Scikit-learn, NLTK, Pandas, Numpy, Matplotlib, Seaborn.
+
 •	Data Management & visualization: SQL, PySpark, Kafka, Tableau, Airflow, GCP Big Query, 
 
 
