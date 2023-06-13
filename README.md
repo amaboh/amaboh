@@ -10,7 +10,7 @@ Versatile and innovative Data Science professional with a strong background in m
 ## 🛠 Skills
 Core Skills: Machine learning/Data Engineering , technical writing
 •	Machine learning: Supervised Learning, Unsupervised Learning, Deep Learning, Natural Language Processing, Computer Vision, Time Series Analysis, Reinforcement Learning
-•	Data Engineering: Data Pipelines, ETL, Data cleaning, Explorative Data Analyses, Data storage
+•	Data Engineering: Data Pipelines(ETL/ELT), Data cleaning and processing, Explorative Data Analyses, Data visualization
 
 
 
@@ -18,8 +18,8 @@ Core Skills: Machine learning/Data Engineering , technical writing
 ## Tech Stack
 
 •	Programming languages: Python, R, Javascript
-•	Python Libraries: FastAi, Pytorch, Scikit-learn, Keras, NLTK, Pandas, Numpy, Matplotlib, Seaborn
-•	Data Management & visualization: SQL, PySpark, Kafka, Tableau, Airflow, GCP, 
+•	Python Libraries: FastAi, Pytorch, Scikit-learn, NLTK, Pandas, Numpy, Matplotlib, Seaborn
+•	Data Management & visualization: SQL, PySpark, Kafka, Tableau, Airflow, GCP Big Query, 
 
 
 
@@ -28,15 +28,15 @@ Core Skills: Machine learning/Data Engineering , technical writing
 ## Other Stuffs about me
 👩‍💻 I'm currently working on skin care solution to provide personalize skin care products at scale
 
-🧠 I'm currently learning ML
+🧠 I'm currently learning and building recommendation systems
 
-🤝 I'm looking to collaborate on projects in automation and AI, interested in finance and healthcare data but openminded.
+🤝 I'm looking to collaborate on projects in process automation, interested in finance and healthcare data but openminded.
 
-🎤 I enjoy talking to data practitoners on the Data Queries podcast.
+🎤 I enjoy talking to data practitoners on the Data Queries podcast. Check it @Data Queries on Spotify, Apple and Google Podcast.
 
-🔄 I'm always at a PyData meetup, and going for tech meetups in any city I live is a monthly duty. 
+🔄 I'm always at a PyData London meetup, and going for tech meetups in any city I live is a monthly duty. 
 
-📫 Reach me by DM on Twitter@coloene
+📫 Reach me by DM on Twitter @coloene
 
 ⚡️ Fun fact. Delay gravitation was the fun part of debugging, chatGPT kind of took the fun out.I still prefer StackOverFlow. The next generation would not say google it but quick fix it by just GPTing-it or GPT-it. Ask ur niece or nephew to confirm. 
 
