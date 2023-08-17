@@ -27,20 +27,20 @@ Core Skills: Machine learning/Data Engineering , technical writing
 
 
 
-## Other Stuffs about me
-👩‍💻 I'm currently working on skin care solution to provide personalize skin care products at scale
+## Other Stuff about me
+👩‍💻 I'm currently working on a skincare solution to provide personalized recommendations using Graph ML.
 
 🧠 I'm currently learning and building recommendation systems
 
-🤝 I'm looking to collaborate on projects in process automation, interested in finance and healthcare data but openminded.
+🤝 I'm looking to collaborate on projects in process automation, interested in finance and healthcare data but open-minded.
 
-🎤 I enjoy talking to data practitoners on the Data Queries podcast. Check it @Data Queries on Spotify, Apple and Google Podcast.
+🎤 I enjoy talking to data practitoners on the Data Queries podcast. Check it @Data Queries on Spotify, Apple, and Google Podcast.
 
 🔄 I'm always at a PyData London meetup, and going for tech meetups in any city I live is a monthly duty. 
 
-📫 Reach me by DM on Twitter @coloene
+📫 Reach me by DM on Twitter @coloene, sorry X doesn't work for me Elon. 
 
-⚡️ Fun fact. Delay gravitation was the fun part of debugging, chatGPT kind of took the fun out.I still prefer StackOverFlow. The next generation would not say google it but quick fix it by just GPTing-it or GPT-it. Ask ur niece or nephew to confirm. 
+⚡️ Fun fact. Delay gravitation was the fun part of debugging, chatGPT kind of took the fun out. I still prefer StackOverflow. The next generation would not say google it but quick fix it by just GPTing-it or GPT-it. Ask ur niece or nephew to confirm. 
 
 
 ## 🔗 Links
