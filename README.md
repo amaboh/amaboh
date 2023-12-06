@@ -3,16 +3,16 @@
 
 
 ## 🚀 About Me
-Versatile and innovative Data Science professional with a strong background in machine learning, data engineering, and financial analytics. Currently pursuing a Masters in Data Science & Analytics with a focus on Machine Learning and High-Performance Computing and holds an MSc in Finance. Skilled in leveraging technologies such as Python, R, SQL, PySpark, Kafka, and Tableau to create data-driven solutions. 
+Data Science professional with a strong background in financial analytics and data engineering. Google certified Data engineer with a Masters in Data Science & Analytics with a focus on Machine Learning and High-Performance Computing and holds an MSc in Finance. Skilled in leveraging technologies such as Python, R, SQL, PySpark, Kafka, and Tableau to create data-driven solutions. 
 
 
 
 ## 🛠 Skills
 Core Skills: Machine learning/Data Engineering , technical writing
 
-•	Machine learning: Supervised Learning, Unsupervised Learning, Deep Learning, Natural Language Processing, Computer Vision, Time Series Analysis, Reinforcement Learning
+•	Machine learning: Supervised Learning, Unsupervised Learning, Deep Learning, Natural Language Processing, Time Series Analysis, and MLOPs
 
-•	Data Engineering: Data Pipelines(ETL/ELT), Data cleaning and processing, Explorative Data Analyses, Data visualization
+•	Data Engineering: Data Pipelines(ETL/ELT), Change Data Capture, Data cleaning and processing, Explorative Data Analyses, Data visualization
 
 
 
@@ -23,14 +23,17 @@ Core Skills: Machine learning/Data Engineering , technical writing
 
 •	Python Libraries: FastAi, Pytorch, Scikit-learn, NLTK, Pandas, Numpy, Matplotlib, Seaborn.
 
-•	Data Management & visualization: SQL, PySpark, Kafka, Tableau, Airflow, GCP Big Query, 
+•	Data Management & visualization: SQL, PostgreSQL,  MongoDB, PySpark, Kafka, Tableau, Airflow.
+
+•	Infrastructure & Tool: Google Cloud, Git & Github,Docker, Weights & Bias.
+
 
 
 
 ## Other Stuff about me
 👩‍💻 I'm currently working on a skincare solution to provide personalized recommendations using Graph ML.
 
-🧠 I'm currently learning and building recommendation systems
+🧠 I'm curious about recommendation systems for different use cases in my free time I try to read and develop recommendation systems. 
 
 🤝 I'm looking to collaborate on projects in process automation, interested in finance and healthcare data but open-minded.
 
