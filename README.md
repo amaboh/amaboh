@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a Data Science professional with a experience in financial analytics and reporting. Google certified Data engineer with a Masters in Data Science & Analytics with a focus on Machine Learning and High-Performance Computing and holds an MSc in Finance. Skilled in leveraging technologies such as Python, R, SQL, PySpark, Kafka, and Tableau to create data-driven solutions. 
+I'm a Data Science professional with a experience in financial analytics and reporting. Google certified Data engineer with a Masters in Data Science and MSc in Finance. Skilled in leveraging technologies such as Python, R, SQL, PySpark, Kafka, and Tableau to create data-driven solutions. 
 
 
 
