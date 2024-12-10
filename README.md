@@ -3,17 +3,16 @@
 
 
 ## 🚀 About Me
-I'm a Data Science professional with a experience in financial analytics and reporting. Google certified Data engineer with a Masters in Data Science and MSc in Finance. Skilled in leveraging technologies such as Python, R, SQL, PySpark, Kafka, and Tableau to create data-driven solutions. 
+I'm a Data Science professional, Google certified ML engineer & Data engineer curious about possibilities of using different Deep Learning architectures to minimize loss functions. 
 
 
 
 ## 🛠 Skills
 Core Skills: Machine learning/Data Engineering , technical writing
 
-•	Machine learning: Supervised Learning, Unsupervised Learning, Deep Learning, Natural Language Processing, Time Series Analysis, and MLOPs
+•	Machine learning: Supervised Learning, Unsupervised Learning, Deep Learning architectures, Natural Language Processing, Time Series Analysis, and MLOPs
 
 •	Data Engineering: Data Pipelines(ETL/ELT), Change Data Capture, Data cleaning and processing, Explorative Data Analyses, Data visualization
-
 
 
 
