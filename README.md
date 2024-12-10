@@ -8,7 +8,7 @@ I'm a Data Science professional, Google certified ML engineer & Data engineer cu
 
 
 ## 🛠 Skills
-Core Skills: Machine learning/Data Engineering , technical writing
+Core Skills: Deep/Machine learning/Data Engineering , technical writing
 
 •	Machine learning: Supervised Learning, Unsupervised Learning, Deep Learning architectures, Natural Language Processing, Time Series Analysis, and MLOPs
 
