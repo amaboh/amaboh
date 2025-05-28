@@ -21,9 +21,9 @@ Core Skills: ML/Deep learning/ Data Engineering , technical writing, recommendat
 
 🧠 I'm curious about recommendation systems for different use cases in my free time I try to read papers and develop recommendation systems. 
 
-🤝 I'm looking to collaborate on projects in process automation, interested in finance and healthcare data but open-minded.
+🤝 I'm looking to collaborate on projects in agentic applications, interested in automating proceeses in finance and healthcare data but open-minded.
 
-🎤 I enjoy talking to data practitoners on the Data Queries podcast. Check it @Data Queries on Spotify, Apple, and Google Podcast.
+🎤 I enjoy talking to ML/data practitoners on the Data Queries podcast. Check it @Data Queries on Spotify, Apple, and Google Podcast.
 
 🔄 I'm always at a PyData London meetup where I'm a volunteer, and going for tech meetups in any city I live is a monthly duty. 
 
@@ -31,7 +31,7 @@ If was to at anypoint to go into research like a Phd program, I'd like to resear
 
 I love watching animes when I want to wind down. 
 
-⚡️ Fun fact. Delay gravitation was the fun part of debugging, chatGPT kind of took the fun out. I still prefer StackOverflow though. 
+⚡️ Fun fact. Delay gravitation was the fun part of debugging, chatGPT/LLMs kind of took the fun out.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://amaboh.com/)
