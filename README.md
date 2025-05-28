@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a Data scientist who's curious about possibilities of Deep Learning architectures to advance human civilization in domains like health and finance. 
+I'm a Machine Learning Engineer who's curious about applied deep learning in the fields of health and finance.
 
 
 
@@ -14,16 +14,6 @@ Core Skills: ML/Deep learning/ Data Engineering , technical writing, recommendat
 • Deep Learning: Computer vision, Natural Language Processing, Graph Neural Networks, Recommendation Systems, RL
 •	Data Engineering: Data Pipelines(ETL/ELT), Change Data Capture, Data cleaning and processing, Explorative Data Analyses, Data visualization, and MLOPs
 
-
-
-## Tech Stack
-
-- Programming Languages: Python, Javascript,  SQL
-- Web technologies: HTML, CSS,  Flask, React, Next JS
-- ML frameworks: PyTorch, Tensorflow, OpenCV, Scikit-Learn, Pandas, Numpy, LangChain, LangGraph, Network X
-- Data Engineering: Dataflow, Cloud Composer (Airflow), Pub/Sub, dbt, Kafka, Tableau, Excel,  PySpark, Scrapy
-- Infrastucture: Terraform, Docker, Terraform, GitHub Actions, CI/CD, Vertex AI, BigQuery,  AutoML, Cloud Run, Cloud Functions
-- Databases & Storage: BigQuery, Cloud Storage, MongoDB, PostgreSQL
 
 
 ## Other Stuff about me
