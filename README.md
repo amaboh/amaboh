@@ -3,31 +3,20 @@
 
 
 ## 🚀 About Me
-I'm a Machine Learning Engineer who's curious about applied deep learning in the fields of health and finance.
-
-
-
-## 🛠 Skills
-Core Skills: ML/Deep learning/ Data Engineering , technical writing, recommendation systems
-
-•	Machine learning: Supervised Learning, Unsupervised Learning, 
-• Deep Learning: Computer vision, Natural Language Processing, Graph Neural Networks, Recommendation Systems, RL
-•	Data Engineering: Data Pipelines(ETL/ELT), Change Data Capture, Data cleaning and processing, Explorative Data Analyses, Data visualization, and MLOPs
+I'm a technologist who's curious about applied deep learning and AI in the field finance.
 
 
 
 ## Other Stuff about me
-👩‍💻 I'm currently working on working at mySKinci a skincare solution to provide personalized recommendations skincare routines using computer vision, GNN, RL and Generative AI.
+👩‍💻 I'm currently working a payment soluttion for remote commerce in Africa 
 
-🧠 I'm curious about recommendation systems for different use cases in my free time I try to read papers and develop recommendation systems. 
+ I worked on mySKinci a skincare solution to provide personalized recommendations skincare routines using computer vision.
 
-🤝 I'm looking to collaborate on projects in agentic applications, interested in automating proceeses in finance and healthcare data but open-minded.
 
-🎤 I enjoy talking to ML/data practitoners on the Data Queries podcast. Check it @Data Queries on Spotify, Apple, and Google Podcast.
+🎤 I enjoy talking to AI/ML/data practitoners on the Data Queries podcast. Check it @Data Queries on Spotify, Apple, and Youtube.
 
 🔄 I'm always at a PyData London meetup where I'm a volunteer, and going for tech meetups in any city I live is a monthly duty. 
 
-If was to at anypoint to go into research like a Phd program, I'd like to research into Causal AI for image generation in healthcare. 
 
 I love watching animes when I want to wind down. 
 
